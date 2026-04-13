@@ -504,6 +504,6 @@ This project is provided for **educational purposes only**. Users must ensure co
 **For authorized security testing only**  
 **You are responsible for your actions**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-red.svg)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-red.svg)](https://github.com/ramanujan4351-alt)
 
 </div>
